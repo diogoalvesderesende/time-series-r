@@ -24,5 +24,6 @@ This repository contains R scripts and datasets for performing time series analy
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/diogoalvesderesende/time-series-r.git
 cd time-series-r
